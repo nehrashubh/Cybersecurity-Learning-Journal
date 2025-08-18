@@ -1,12 +1,41 @@
-# My Cybersecurity Learning Journal
+# 🛡️ Cybersecurity Learning Journal
 
-This repository serves as my personal learning journal for cybersecurity. I'm documenting my daily learnings, concepts, tools, and challenges as I progress in my journey.
+Welcome to my Cybersecurity Learning Journal!  
+This repo documents my journey into cybersecurity — my notes, labs, projects, and reflections.
 
-## Structure:
-- `Notes/`: Contains my personal notes and summaries from rooms I complete on tryhackme, blogs I read, and other knowledge I come across.
+---
 
-## Goal:
-To build a comprehensive knowledge base and track my progress in various cybersecurity domains.
+## 📍 Current Focus
+- ✅ TryHackMe Presecurity (completed)
+- 🔄 TryHackMe Intro to Cybersecurity (in progress)
+- 🔄 TrhHackeMe Zero To Hero subscriber's path wave 1
+- 🖥️ Homelab setup (Kali + Ubuntu)
+
+---
+
+## 🚀 Roadmap
+- [ ] Finish TryHackMe Intro to Cybersecurity
+- [ ] Complete SOC Level 1 path
+- [ ] Build personal homelab projects
+- [ ] Start HackTheBox "Starting Point"
+- [ ] Earn CompTIA Security+
+
+---
+
+## 📚 Repository Structure
+- `notes/Networking` → DNS, HTTP, protocols
+- `notes/Linux` → CLI, permissions, services
+- `notes/Tools` → Nmap, Wireshark, Metasploit, Burp
+- `notes/Web_Security` → OWASP, SQLi, XSS
+- `notes/Labs` → Homelabs, TryHackMe, Wireshark exercises
+- `resources/` → Roadmaps, links, cheatsheets
+
+---
+
+## 🔗 Resources I use
+- [TryHackMe](https://tryhackme.com)
+- [HackTheBox](https://www.hackthebox.com)
+- [Awesome Hacking Resources](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Contact:
 You can reach me at [nehrashubh6@gmail.com](mailto:nehrashubh6@gmail.com)
